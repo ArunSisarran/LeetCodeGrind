@@ -23,3 +23,53 @@ class Solution:
                 return False
         # otherwise return true
         return True
+
+# O(n) time
+# O(1) space
+
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        newStr = re.sub(r'[\W+_]', '', s).lower()
+        newStr.replace(" ", "")
+
+        l = 0
+        r = len(s) - 1
+
+        while l < r:
+            if newStr[l] == newStr[r]:
+                l += 1
+                r -= 1
+            else:
+                return False
+
+        return True
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

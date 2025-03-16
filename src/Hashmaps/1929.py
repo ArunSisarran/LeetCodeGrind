@@ -9,3 +9,8 @@ class Solution:
 
         return ans
 
+# or just do this
+def getConcatenation(self, nums: List[int]) -> List[int]:
+    return nums * 2
+
+
