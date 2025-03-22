@@ -67,7 +67,7 @@ class Solution:
                 r -= 1
             else:
                 return False
-        
+
         return True
 
 # O(n)
@@ -156,7 +156,29 @@ class Solution:
                 r -= 1
 
         return -1
-        
+
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        newStr = ""
+
+        for x in s:
+            if x.isalnum():
+                newStr += x.lower()
+
+        l = 0
+        r = len(newStr) - 1
+
+        while l < r:
+
+            if newStr[l] == newStr[r]:
+                l += 1
+                r -= 1
+            else:
+                return False
+
+        return True
+
 
 
 
