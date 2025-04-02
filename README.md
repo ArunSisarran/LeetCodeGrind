@@ -33,6 +33,7 @@ A repo of all my leetcodes as I solve them
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 ## String
 |  |
@@ -50,4 +51,12 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
