@@ -36,6 +36,7 @@ A repo of all my leetcodes as I solve them
 | [0162-find-peak-element](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
+| [0747-min-cost-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0747-min-cost-climbing-stairs) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
