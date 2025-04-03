@@ -45,15 +45,18 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1236-n-th-tribonacci-number) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
