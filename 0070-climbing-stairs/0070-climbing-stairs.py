@@ -40,16 +40,12 @@ if n <= 1:
 '''
 class Solution:
     def climbStairs(self, n: int) -> int:
-        memo = {}
-
+        @cache
         def ways_to_climb_stairs(n):
             if n <= 1:
                 return 1
-            
-            if n in memo:
-                return memo[n]
 
-            memo[n] = ways_to_climb_stairs(n - 1) + ways_to_climb_stairs(n - 2)
-            return memo[n]
+            return ways_to_climb_stairs(n - 1) + ways_to_climb_stairs(n - 2)
+
 
         return ways_to_climb_stairs(n)
