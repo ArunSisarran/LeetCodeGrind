@@ -39,5 +39,4 @@ class Solution:
 
             return node
 
-        dfs(root)
-        return root
+        return dfs(root)
