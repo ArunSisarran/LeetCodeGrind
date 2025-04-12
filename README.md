@@ -39,6 +39,7 @@ A repo of all my leetcodes as I solve them
 | ------- |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0162-find-peak-element) |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 | [0747-min-cost-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0747-min-cost-climbing-stairs) |
@@ -69,6 +70,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -82,9 +84,30 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Simulation
 |  |
 | ------- |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
