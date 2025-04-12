@@ -37,6 +37,7 @@ A repo of all my leetcodes as I solve them
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
@@ -45,6 +46,7 @@ A repo of all my leetcodes as I solve them
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 ## Math
 |  |
@@ -66,6 +68,7 @@ A repo of all my leetcodes as I solve them
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -78,6 +81,7 @@ A repo of all my leetcodes as I solve them
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Simulation
 |  |
