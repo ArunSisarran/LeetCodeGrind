@@ -1,10 +1,11 @@
 '''
-goal: return a list of strings that group all words that are anagrams
+goal : given an array of strings group all the words with the same letters
 
-sort the strings
-using a hashmap with the key being the sorted string
-add all strings of the same sort to that
-return the hashmap values
+use a hashmap
+loop through the strings
+use the sorted string as the hashmap key
+add all strings of that same sorted key together
+return list of strings
 '''
 
 
