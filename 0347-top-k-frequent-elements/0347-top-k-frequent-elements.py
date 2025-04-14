@@ -1,11 +1,13 @@
 '''
-goal: given a list return the k most frequent numbers in that list
+goal: given a list of nums return the k most frequent elements
 
-add all values in the list to a hashmap with their occurances
+create a hashmap
+populate the hashmap with each value and how many time it appears
 create a heap
-add all hashmap key values to the heap
-loop through the heap and pop the first k elements
-return those elements
+create a result list
+add all key value pairs to the heap
+pop the first k elements of the heap into the result list
+return the result list
 '''
 
 
@@ -25,3 +27,4 @@ class Solution:
             result.append(heapq.heappop(heap)[1])
 
         return result
+        
