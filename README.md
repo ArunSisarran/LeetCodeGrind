@@ -47,6 +47,7 @@ A repo of all my leetcodes as I solve them
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 ## Math
@@ -110,4 +111,8 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
