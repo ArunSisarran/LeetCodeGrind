@@ -3,30 +3,20 @@ class Solution:
         stack = []
         for token in tokens:
             if token == "+":
-                top_value = int(stack.pop())
-                second_value = int(stack.pop())
-                stack.append(second_value + top_value)
-                print(second_value + top_value)
+                stack.append(stack.pop() + stack.pop())
 
             elif token == "-":
-                top_value = int(stack.pop())
-                second_value = int(stack.pop())
-                stack.append(second_value - top_value)
-                print(second_value - top_value)
+                a, b = stack.pop(), stack.pop()
+                stack.append(b - a)
 
             elif token == "*":
-                top_value = int(stack.pop())
-                second_value = int(stack.pop())
-                stack.append(second_value * top_value)
-                print(second_value * top_value)
+                stack.append(stack.pop() * stack.pop())
 
             elif token == "/":
-                top_value = int(stack.pop())
-                second_value = int(stack.pop())
-                stack.append(second_value / top_value)
-                print(second_value / top_value)
+                a, b = stack.pop(), stack.pop()
+                stack.append(int(b / a))
 
             else:
-                stack.append(token)
+                stack.append(int(token))
 
-        return int(stack.pop())
+        return stack.pop()
