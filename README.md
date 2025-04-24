@@ -6,6 +6,7 @@ A repo of all my leetcodes as I solve them
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
@@ -14,6 +15,7 @@ A repo of all my leetcodes as I solve them
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
@@ -29,6 +31,7 @@ A repo of all my leetcodes as I solve them
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
@@ -117,6 +120,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0155-min-stack) |
 ## Design
