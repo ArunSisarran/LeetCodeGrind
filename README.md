@@ -10,6 +10,7 @@ A repo of all my leetcodes as I solve them
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -19,6 +20,7 @@ A repo of all my leetcodes as I solve them
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -35,6 +37,7 @@ A repo of all my leetcodes as I solve them
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
@@ -135,4 +138,8 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0206-reverse-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
