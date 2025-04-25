@@ -9,6 +9,7 @@ A repo of all my leetcodes as I solve them
 | [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
@@ -19,6 +20,7 @@ A repo of all my leetcodes as I solve them
 | [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
@@ -36,6 +38,7 @@ A repo of all my leetcodes as I solve them
 | [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
@@ -68,6 +71,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
