@@ -56,6 +56,7 @@ A repo of all my leetcodes as I solve them
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -108,6 +109,7 @@ A repo of all my leetcodes as I solve them
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
@@ -164,4 +166,8 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
