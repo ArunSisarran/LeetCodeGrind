@@ -56,6 +56,7 @@ A repo of all my leetcodes as I solve them
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0128-longest-consecutive-sequence) |
@@ -169,5 +170,10 @@ A repo of all my leetcodes as I solve them
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
