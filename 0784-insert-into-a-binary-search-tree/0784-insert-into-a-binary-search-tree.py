@@ -6,21 +6,11 @@
 #         self.right = right
 class Solution:
     def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
-        
-        def insert(root, val):
-            # If the tree is empty or null, create a node with the value of val
-            if not root:
-                return TreeNode(val)
-            
-            # If the value is greater than the root node, recursively call the right subtree
-            if val > root.val:
-                root.right = insert(root.right, val)
-            # If the value is less than the root node, recursively call the left subtree
-            elif val < root.val:
-                root.left = insert(root.left, val)
+        if not root:
+            return TreeNode(val)
 
-            # return the head of the BST
-            return root
-        
-        return insert(root, val)
-            
+        if val > root.val:
+            root.right = self.insertIntoBST(root.right, val)
+        elif val < root.val:
+            root.left = self.insertIntoBST(root.left, val)
+        return root
