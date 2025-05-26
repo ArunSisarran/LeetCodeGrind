@@ -15,6 +15,7 @@ A repo of all my leetcodes as I solve them
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -53,6 +54,7 @@ A repo of all my leetcodes as I solve them
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -170,6 +172,7 @@ A repo of all my leetcodes as I solve them
 | [0098-validate-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Union Find
