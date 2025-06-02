@@ -68,6 +68,7 @@ A repo of all my leetcodes as I solve them
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
@@ -108,6 +109,7 @@ A repo of all my leetcodes as I solve them
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0217-contains-duplicate) |
