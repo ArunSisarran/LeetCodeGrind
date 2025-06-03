@@ -86,6 +86,7 @@ A repo of all my leetcodes as I solve them
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0125-valid-palindrome) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 ## Math
 |  |
@@ -192,6 +193,7 @@ A repo of all my leetcodes as I solve them
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
