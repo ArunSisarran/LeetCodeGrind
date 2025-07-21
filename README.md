@@ -92,6 +92,7 @@ A repo of all my leetcodes as I solve them
 | [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0242-valid-anagram) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 ## Math
 |  |
@@ -120,6 +121,7 @@ A repo of all my leetcodes as I solve them
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -140,6 +142,7 @@ A repo of all my leetcodes as I solve them
 | [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Simulation
