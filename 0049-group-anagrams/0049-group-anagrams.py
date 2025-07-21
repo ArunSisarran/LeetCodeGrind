@@ -1,9 +1,13 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        map = defaultdict(list)
+        # create a hashmap to store all the combinations of strings that make a word
+        seen = defaultdict(list)
 
-        for words in strs:
-            key = "".join(sorted(words))
-            map[key].append(words)
+        for letters in strs:
+            # sort the letters 
+            sorted_letters = "".join(sorted(letters))
 
-        return list(map.values())
+            # add the letters to the hashmap
+            seen[sorted_letters].append(letters)
+
+        return list(seen.values())
