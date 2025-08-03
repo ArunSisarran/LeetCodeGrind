@@ -4,19 +4,11 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
-'''
-U: We want to find out if the tree "SubRoot" exists within our main tree "Root"
-
-M: Make a helper function to determine if its the same tree
-
-P: Make a helper function to determine if its the same tree, recursively call it on the left and right subtres, then in the main function we will recursively call the helper on the left and right subtrees as well
-
-'''
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         if not subRoot:
             return True
+
         if not root:
             return False
 
@@ -31,5 +23,3 @@ class Solution:
 
         if (root and subRoot) and (root.val == subRoot.val):
             return (self.isSameTree(root.left, subRoot.left) and self.isSameTree(root.right, subRoot.right))
-
-        return False
