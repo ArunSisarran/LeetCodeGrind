@@ -4,11 +4,8 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
 '''
-Solution makes sense because if both values are bigger than the root then go in the right subtree,
-if both values are smaller than root then its in the left subtree. And if one is bigger and one is smaller
-then the current node is the descendent 
+This works because in a BST if both values are less than the root then we go left, if both values are bigger than the root then we go right. If one value is smaller and one value is bigger then the root is the lowest common ancestor
 '''
 
 class Solution:
@@ -20,6 +17,3 @@ class Solution:
                 root = root.left
             else:
                 return root
-
-
-        
