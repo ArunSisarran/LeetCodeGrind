@@ -85,6 +85,7 @@ A repo of all my leetcodes as I solve them
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 | [0747-min-cost-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A repo of all my leetcodes as I solve them
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1236-n-th-tribonacci-number) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@ A repo of all my leetcodes as I solve them
 | [0217-contains-duplicate](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Simulation
 |  |
@@ -153,10 +156,12 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -169,6 +174,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -230,4 +236,8 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
