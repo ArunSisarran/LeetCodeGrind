@@ -1,13 +1,20 @@
+'''
+U: given a list of strings group all the strings with the same letters together
+
+M: we could use a hashmap to store all the letters we see
+
+P: we use the hashmap and the sorted version on the string as a key, then we keep looping through the list and sorting all the strings and adding them to the hashmap, this would make it so all strings with the same letters exactly are groupped together
+
+'''
+
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        # create a hashmap to store all the combinations of strings that make a word
         seen = defaultdict(list)
 
-        for letters in strs:
-            # sort the letters 
-            sorted_letters = "".join(sorted(letters))
+        for word in strs:
+            sorted_word = "".join(sorted(word))
 
-            # add the letters to the hashmap
-            seen[sorted_letters].append(letters)
+            seen[sorted_word].append(word)
 
         return list(seen.values())
