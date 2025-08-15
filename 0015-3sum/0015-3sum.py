@@ -3,25 +3,30 @@ class Solution:
         result = []
         nums.sort()
 
-        for index, value in enumerate(nums):
-            if index > 0 and value == nums[index - 1]:
+        for i in range(len(nums)):
+            # check if the current value is the same as the previous and if it is skip it
+            if i > 0 and nums[i] == nums[i - 1]:
                 continue
             else:
-                l = index + 1
-                r = len(nums) - 1
+                l, r = i + 1, len(nums) - 1
 
                 while l < r:
-                    three_sum = value + nums[l] + nums[r]
-
-                    if three_sum > 0:
+                    
+                    if nums[i] + nums[l] + nums[r] < 0:
+                        l += 1
+                    elif nums[i] + nums[l] + nums[r] > 0:
                         r -= 1
-                    elif three_sum < 0:
-                        l += 1
                     else:
-                        result.append([value, nums[l], nums[r]])
-                        # keep it moving
+                        result.append([nums[i], nums[l], nums[r]])
+                        # move the left pointer to continue looking for more tuples that equal 0
                         l += 1
+                        
+                        # if the left pointer is the same value as the previous left pointer
+                        # move it because we don't want duplicates
                         while nums[l] == nums[l - 1] and l < r:
                             l += 1
 
         return result
+
+#O(n^2)
+#O(n)
