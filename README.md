@@ -71,6 +71,7 @@ A repo of all my leetcodes as I solve them
 | [0001-two-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
@@ -133,6 +134,7 @@ A repo of all my leetcodes as I solve them
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0162-find-peak-element) |
