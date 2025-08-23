@@ -13,6 +13,7 @@ A repo of all my leetcodes as I solve them
 | [0110-balanced-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -32,6 +33,7 @@ A repo of all my leetcodes as I solve them
 | [0110-balanced-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -56,6 +58,7 @@ A repo of all my leetcodes as I solve them
 | [0110-balanced-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -187,6 +190,7 @@ A repo of all my leetcodes as I solve them
 | [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0155-min-stack) |
 ## Design
