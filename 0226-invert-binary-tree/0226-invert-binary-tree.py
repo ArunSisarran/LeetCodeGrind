@@ -5,24 +5,23 @@
 #         self.left = left
 #         self.right = right
 '''
-U: Invert the binary tree meaning all nodes on the left hand side must go to the right hand side
-if possible
-
-M: I could do this by doing node.left = node.right on each root to swap its children
-
-P: Create a helper function, pass in the root, swap the roots children, and recursively call that
-helper function on the left and right subtrees so the nodes of those trees get swapped too
+Flip the left and right nodes
+recursively call the left and right tree 
+dfs algorithm
 '''
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        def helper(root):
+
+        def dfs(root):
             if not root:
-                return None
+                return 0
 
             root.left, root.right = root.right, root.left
 
-            helper(root.left)
-            helper(root.right)
+            dfs(root.left)
+            dfs(root.right)
 
-        helper(root)
+        dfs(root)
         return root
+
+        
