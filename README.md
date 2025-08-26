@@ -204,10 +204,12 @@ A repo of all my leetcodes as I solve them
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
