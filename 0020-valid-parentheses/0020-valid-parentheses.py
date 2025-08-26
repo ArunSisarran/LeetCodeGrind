@@ -1,29 +1,30 @@
 '''
-goal: given a list of parentheses determine if they are valid
-
-every opening parentheses must have a closing parentheses
-create a stack
-if its an opening parentheses add it to the stack
-if we find a closing parentheses pop the opening from the stack
-if there is anything left in the stack after we loop through list its not valid
+Create a hashmap with all pairs of parentheses
+Create a stack
+Loop through the input string 
+Push opening parentheses to the stack
+If a closing parentheses if found pop from the stack
+If a closing parenthese is found but the top of the stack is not the opening parenthese False
+If the stack is empty at the end return true else return false
 '''
+
 
 
 class Solution:
     def isValid(self, s: str) -> bool:
+        valid = {"}" : "{", ")" : "(", "]" : "["}
         stack = []
-        # create a hashmap with all the opening and closing pairs
-        closeToOpen = { ")" : "(", "]" : "[", "}" : "{" }
 
         for char in s:
-            # check if the current char is in the hashmap
-            if char in closeToOpen:
-                if stack and stack[-1] == closeToOpen[char]:
+            if char in valid and stack:
+                if stack and stack[-1] == valid[char]:
                     stack.pop()
                 else:
                     return False
-            # if its not a closing char add it to the stack
             else:
                 stack.append(char)
 
-        return True if not stack else False
+        return False if stack else True
+
+# O(n)
+# O(n)
