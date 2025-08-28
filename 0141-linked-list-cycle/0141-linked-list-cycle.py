@@ -3,24 +3,23 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
-
 '''
-check to see if there is a cycle in a linked list, a cycle is when a node points to another previous node and the list does not end.
+fast and slow pointer approach
 
-use a set because a set can contain no duplicates and add each referrence of the node to the set, if the set comes across a referrence it has seen already then there is a cycle
+two pointers, fast pointer moves twice as fast as the slow pointer
+if there is a cycle then the fast pointer will equal the slow pointer at some point
+if the pointers never equal each other then there is no cycle in the linked list
 '''
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        seen = set()
-        curr = head
+        fast, slow = head, head
 
-        while curr:
-            if curr in seen:
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+
+            if fast == slow:
                 return True
-            else:
-                seen.add(curr)
-
-            curr = curr.next
 
         return False
         
