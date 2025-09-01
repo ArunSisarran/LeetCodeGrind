@@ -154,6 +154,7 @@ A repo of all my leetcodes as I solve them
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0907-koko-eating-bananas) |
 ## Sorting
@@ -269,4 +270,8 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
