@@ -86,6 +86,7 @@ A repo of all my leetcodes as I solve them
 | [0042-trapping-rain-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0128-longest-consecutive-sequence) |
