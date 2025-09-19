@@ -37,6 +37,7 @@ A repo of all my leetcodes as I solve them
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -51,6 +52,7 @@ A repo of all my leetcodes as I solve them
 | [0102-binary-tree-level-order-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0733-flood-fill) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -294,4 +296,12 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0278-first-bad-version) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
