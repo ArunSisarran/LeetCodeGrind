@@ -4,18 +4,17 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
-
-    def inorder_traversal(self, root):
-        if not root:
-            return []
-
-        return self.inorder_traversal(root.left) + [root.val] + self.inorder_traversal(root.right)
-
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        values = self.inorder_traversal(root)
-
-        for i in range(1, len(values)):
-            if values[i] <= values[i - 1]:
+        def dfs(node, min, max):
+            if not node:
+                return True
+            if not (node.val > min and node.val < max):
                 return False
-        return True
+
+            return dfs(node.left, min, node.val) and dfs(node.right, node.val, max)
+        return dfs(root, float('-inf'), float('inf'))
+
+        
+            
