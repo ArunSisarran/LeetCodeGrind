@@ -88,6 +88,7 @@ A repo of all my leetcodes as I solve them
 | [0042-trapping-rain-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -185,6 +186,7 @@ A repo of all my leetcodes as I solve them
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Divide and Conquer
 |  |
@@ -282,6 +284,7 @@ A repo of all my leetcodes as I solve them
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0733-flood-fill) |
 ## Geometry
