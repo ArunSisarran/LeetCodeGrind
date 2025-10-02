@@ -101,6 +101,7 @@ A repo of all my leetcodes as I solve them
 | [0169-majority-element](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 | [0733-flood-fill](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0733-flood-fill) |
@@ -189,6 +190,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0498-diagonal-traverse) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## Divide and Conquer
 |  |
@@ -289,6 +291,7 @@ A repo of all my leetcodes as I solve them
 | [0048-rotate-image](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0733-flood-fill) |
 ## Geometry
 |  |
