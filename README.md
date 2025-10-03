@@ -106,6 +106,7 @@ A repo of all my leetcodes as I solve them
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 | [0733-flood-fill](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0747-min-cost-climbing-stairs) |
+| [0777-toeplitz-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
@@ -293,6 +294,7 @@ A repo of all my leetcodes as I solve them
 | [0074-search-a-2d-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0733-flood-fill) |
+| [0777-toeplitz-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0777-toeplitz-matrix) |
 ## Geometry
 |  |
 | ------- |
