@@ -121,6 +121,7 @@ A repo of all my leetcodes as I solve them
 | [0242-valid-anagram](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 ## Math
 |  |
@@ -160,6 +161,7 @@ A repo of all my leetcodes as I solve them
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -303,6 +305,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 ## Interactive
 |  |
 | ------- |
