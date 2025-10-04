@@ -122,6 +122,7 @@ A repo of all my leetcodes as I solve them
 | [0383-ransom-note](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 ## Math
 |  |
@@ -163,6 +164,7 @@ A repo of all my leetcodes as I solve them
 | [0409-longest-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A repo of all my leetcodes as I solve them
 | [0125-valid-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -306,6 +309,7 @@ A repo of all my leetcodes as I solve them
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 ## Interactive
 |  |
 | ------- |
