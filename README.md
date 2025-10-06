@@ -118,6 +118,7 @@ A repo of all my leetcodes as I solve them
 | [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0409-longest-palindrome) |
@@ -157,6 +158,7 @@ A repo of all my leetcodes as I solve them
 | [0128-longest-consecutive-sequence](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +288,7 @@ A repo of all my leetcodes as I solve them
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0572-subtree-of-another-tree) |
 ## Monotonic Stack
 |  |
@@ -308,6 +311,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 ## Interactive
@@ -322,4 +326,12 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
