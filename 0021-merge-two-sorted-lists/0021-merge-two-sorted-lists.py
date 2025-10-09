@@ -3,12 +3,10 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-
 '''
-The output should be a sorted linked list
-- Make a new linked list node
-- Make the new nodes next point to the smallest node value
-- Keep comparing node values and setting the .next to the smallest value
+idea:
+create a new linked list node, then keep setting the next pointer by comparing
+which of the two lists have the smaller value
 '''
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
@@ -16,7 +14,6 @@ class Solution:
         curr = dummy
 
         while list1 and list2:
-
             if list1.val <= list2.val:
                 curr.next = list1
                 curr = list1
@@ -29,5 +26,4 @@ class Solution:
         curr.next = list1 if list1 else list2
 
         return dummy.next
-                
         
