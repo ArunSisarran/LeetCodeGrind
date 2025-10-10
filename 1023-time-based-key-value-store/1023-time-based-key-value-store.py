@@ -3,24 +3,20 @@ idea:
 use a hashmap that holds a list that way you can store the value and timestamp with 
 the key.
 '''
+from collections import defaultdict
 class TimeMap:
 
     def __init__(self):
         # create the hashmap that will store the value and timestamp
-        self.hashmap = {}
+        self.hashmap = defaultdict(list)
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        # if the key is not already in the hashmap create that bucket in the hashmap
-        if key not in self.hashmap:
-            self.hashmap[key] = []
-        # add the value and timestamp to the corresponding key
         self.hashmap[key].append([value, timestamp])
         
-
     def get(self, key: str, timestamp: int) -> str:
         res = ""
         # create a values variable that holds a list of the current values of the given key
-        values = self.hashmap.get(key, [])
+        values = self.hashmap[key]
 
         l, r = 0, len(values) - 1
         # binary search to check if the timestamps are <= the timestamp provided, if 
