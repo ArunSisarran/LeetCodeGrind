@@ -237,6 +237,7 @@ A repo of all my leetcodes as I solve them
 | [0020-valid-parentheses](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -250,12 +251,14 @@ A repo of all my leetcodes as I solve them
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
@@ -278,6 +281,7 @@ A repo of all my leetcodes as I solve them
 | [0042-trapping-rain-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0908-middle-of-the-linked-list) |
