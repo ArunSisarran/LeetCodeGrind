@@ -127,6 +127,7 @@ A repo of all my leetcodes as I solve them
 | [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
+| [1023-time-based-key-value-store](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A repo of all my leetcodes as I solve them
 | [0424-longest-repeating-character-replacement](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A repo of all my leetcodes as I solve them
 | [0278-first-bad-version](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
