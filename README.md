@@ -102,6 +102,7 @@ A repo of all my leetcodes as I solve them
 | [0209-minimum-size-subarray-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
@@ -186,6 +187,7 @@ A repo of all my leetcodes as I solve them
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1023-time-based-key-value-store) |
@@ -289,6 +291,7 @@ A repo of all my leetcodes as I solve them
 | [0141-linked-list-cycle](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -347,6 +350,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0287-find-the-duplicate-number) |
 ## Rolling Hash
 |  |
 | ------- |
