@@ -9,7 +9,13 @@ class Solution:
         def dfs(root):
             if not root:
                 return 0
+            
+            left = dfs(root.left)
+            right = dfs(root.right)
 
-            return 1 + max(dfs(root.left), dfs(root.right))
+            depth = max(left, right) + 1
+
+            return depth
 
         return dfs(root)
+        
