@@ -1,38 +1,20 @@
-'''
-goal: return the amount of subarrays that can sum up to k
-
-observation: 
-similar to two sum?
-need to find n elements that sum up to k
-
-Input: nums = [1,2,3], k = 3
-Output: 2
-
-1 + 2
-3
-
-make a hashmap
-start with 0 in hashmap if first elem is a subarray
-create a counter var to store the total
-loop through the array continually summing up each new elemnt
-take the complement sum - k
-check if the complement is in the hashmap
-if it is in hashmap increment counter as based on the amount of times its appeared 
-if not in the hashmap add the current sum as the key and the amount of times it appears as value
-return the counter
-
-'''
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        seen = {0:1}
-        counter = sum = 0
+        # in case any prefix sum from the start equals k        
+        prefix_sum = {0: 1}
+        total_sum = 0
+        count = 0
 
-        for i in nums:
-            sum += i
-            complement = sum - k
+        for num in nums:
+            # add the current number to our sum variable
+            total_sum += num
 
-            if complement in seen:
-                counter += seen[complement]
-            
-            seen[sum] = seen.get(sum, 0) + 1
-        return counter
+            # if sum - k is in the hashmap, increment count
+            # by the value stored in that key
+            if total_sum - k in prefix_sum:
+                count += prefix_sum[total_sum - k]
+
+            # add the sum as a key
+            prefix_sum[total_sum] = prefix_sum.get(total_sum, 0) + 1
+
+        return count
