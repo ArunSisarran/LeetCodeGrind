@@ -1,37 +1,31 @@
+'''
+return the length of the longest subtring you can make of the same
+characters if you are allowed to replace k characters
+
+use the sliding window technique
+use a hashmap to keep track of the frequency of characters
+if the current length of the window - most freq char is > k then we have
+to make the window smaller, if its < k then we could replace k chars in that string
+max variable to keep track of the biggest substring
+current_length variable to keep track of current length
+'''
 class Solution:
-    '''
-    make the longest sub string of the same character if you were able to 
-    change k characters in the string and return the length of that sub
-    string
-
-    algorithm:
-    keep a hashmap of each character and its frequency
-    keep a variable that keeps track of the highest frequency character 
-    keep a variable that keeps track of the current length of our window
-    compute if current_length - max_frequency > k
-    this will tell us if the current window we are in can replace k chars to create a larger sub string
-
-    why this works?
-    this works because it keeps track of how big the current window is while
-    taking into account how many of the same letter there is in that window 
-    and the "> k" part of the algorithm insures that the window will never 
-    contain more elements than k that can be changed so the entire sub string
-    is the same character
-    '''
-    from collections import defaultdict
     def characterReplacement(self, s: str, k: int) -> int:
         frequency = defaultdict(int)
-        max_length = 0
-        left = 0
+        l = 0
+        max_length = current_length = 0
 
         for right in range(len(s)):
-            frequency[s[right]] = frequency.get(s[right], 0) + 1
-            max_frequency = max(frequency.values())
-            current_length = right - left + 1
+            frequency[s[right]] += 1
+            current_length += 1
 
-            if current_length - max_frequency > k:
-                frequency[s[left]] -= 1
-                left += 1
-            max_length = max(max_length, right - left + 1)
+            most_frequent = max(frequency.values())
+
+            while current_length - most_frequent > k:
+                frequency[s[l]] -= 1
+                current_length -= 1
+                l += 1
+
+            max_length = max(current_length, max_length)
 
         return max_length
