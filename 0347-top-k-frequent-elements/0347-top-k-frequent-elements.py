@@ -1,14 +1,21 @@
+'''
+return the k most frequent elements from nums
+
+use a hashmap to record all frequencies
+put the hashmap values into a max heap
+loop throught the heap and pop the first k elements
+'''
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        seen = defaultdict(int)
+        frequency = defaultdict(int)
         heap = []
         result = []
 
-        for i in nums:
-            seen[i] = seen.get(i, 0) + 1
+        for num in nums:
+            frequency[num] += 1
 
-        for key, val in seen.items():
-            heapq.heappush(heap, (-val, key))
+        for num, freq in frequency.items():
+            heapq.heappush(heap, (-freq, num))
 
         while len(result) < k:
             result.append(heapq.heappop(heap)[1])
