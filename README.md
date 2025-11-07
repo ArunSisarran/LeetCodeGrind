@@ -108,6 +108,7 @@ A repo of all my leetcodes as I solve them
 | [0560-subarray-sum-equals-k](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0722-remove-comments](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0722-remove-comments) |
 | [0733-flood-fill](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0792-binary-search) |
@@ -249,6 +250,7 @@ A repo of all my leetcodes as I solve them
 | [0145-binary-tree-postorder-traversal](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
