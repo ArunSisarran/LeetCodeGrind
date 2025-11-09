@@ -5,25 +5,27 @@
 #         self.left = left
 #         self.right = right
 '''
-idea:
-traverse the tree using a dfs algo and compare the left and right substrees recursively
+determine if two binary trees are identical
+
+use a dfs algorithm
+base cases:
+if not p or not q
+check if the current root is the same
+check if the left tree is the same
+check if the right tree is the same
 '''
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         def dfs(p, q):
-            # checking if both trees exists or don't exisit
             if not p and not q:
                 return True
-            
-            if (p and not q) or (not p and q):
-                return False
-            
-            # check both nodes exists and that their values equal each other
-            if (p and q) and (p.val == q.val):
-                # return if the left and right trees also equal each other
-                return (dfs(p.left, q.left) and dfs(p.right, q.right))
 
-            # default condition if there is a case where they don't match up
-            return False
+            if not p or not q:
+                return False
+
+            if p and q and p.val == q.val:
+                return dfs(p.left, q.left) and dfs(p.right, q.right)
+            else:
+                return False
 
         return dfs(p, q)
