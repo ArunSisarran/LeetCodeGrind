@@ -4,27 +4,32 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+'''
+return if the root contains the subroot
+
+make a function that checks if the trees are identical
+use a dfs algorithm
+
+in main function check if the trees at the current postion are identical
+if not move the the left tree or right tree and check again
+'''
 class Solution:
-    # helper function that determines if both trees have the same nodes
-    def same(self, root, subroot):
-        if not root and not subroot:
-            return True
-
-        if (root and subroot) and (root.val == subroot.val):
-            return (self.same(root.left, subroot.left) and self.same(root.right, subroot.right))
-
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         if not root:
             return False
 
-        if not subRoot:
+        if self.isSame(root, subRoot):
             return True
 
-        # check if the current root is the same as the subRoot
-        if self.same(root, subRoot):
-            return True
+        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
 
-        # recursively call this on the left and right trees to check is the subroot is in there
-        # we use or because the subroot can be in either the left or right subtree
-        return (self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot))
+    def isSame(self, root, subRoot):
+        if not root and not subRoot:
+            return True
         
+        if not root or not subRoot:
+            return False
+
+        if root and subRoot and root.val == subRoot.val:
+            return self.isSame(root.left, subRoot.left) and self.isSame(root.right, subRoot.right)
+
