@@ -4,24 +4,29 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+'''
+return the number of good nodes
+a node is good if from the root to the node x there are no nodes bigger than
+node x.
+
+use a dfs algorithm to go down the paths to each node.
+pass in the root and a max_val param in the function.
+check if the root is greater than or equal to the node we visit (max val)
+recursively call that check on the left and right trees
+return the total amount of good nodes
+'''
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        def dfs(root, val):
+        def dfs(root, max_val):
             if not root:
                 return 0
 
-            if root.val >= val:
-                good = 1
-                val = root.val
-            else:
-                good = 0
+            good = 1 if root.val >= max_val else 0
+            max_val = max(max_val, root.val)
 
-            left = dfs(root.left, val)
-            right = dfs(root.right, val)
+            good += dfs(root.left, max_val)
+            good += dfs(root.right, max_val)
 
-            total = good + left + right
-
-            return total
+            return good
 
         return dfs(root, root.val)
-            
