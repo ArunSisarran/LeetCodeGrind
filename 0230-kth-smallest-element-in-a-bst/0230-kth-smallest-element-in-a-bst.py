@@ -4,15 +4,17 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+'''
+return the smallest k values of the binary tree
+'''
 class Solution:
-    def inorder_traversal(self, root):
+    def inorder(self, root):
         if not root:
             return []
-
-        return self.inorder_traversal(root.left) + [root.val] + self.inorder_traversal(root.right)
-
+        while root:
+            return self.inorder(root.left) + [root.val] + self.inorder(root.right)
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        res = self.inorder_traversal(root)
-        print(res)
-
-        return res[k - 1] 
+        res = self.inorder(root)
+        return res[k - 1]
+        
+        
