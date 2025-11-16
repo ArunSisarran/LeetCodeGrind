@@ -120,6 +120,7 @@ A repo of all my leetcodes as I solve them
 | [0792-binary-search](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1127-last-stone-weight) |
 | [3721-count-mentions-per-user](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/3721-count-mentions-per-user) |
 ## String
 |  |
@@ -231,6 +232,7 @@ A repo of all my leetcodes as I solve them
 | [0347-top-k-frequent-elements](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
