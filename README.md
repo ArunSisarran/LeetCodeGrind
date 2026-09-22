@@ -386,4 +386,12 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
