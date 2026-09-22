@@ -4,13 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-'''
-given the root of a bst, return weather it is a valid bst
-
-a valid bst must have all nodes smaller than the root to the left and all
-nodes bigger than the root to the right, if this is false the bst is 
-invalid.
-'''
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         def dfs(root, min_val, max_val):
@@ -26,4 +19,4 @@ class Solution:
             return left and right
 
         return dfs(root, float('-inf'), float('inf'))
-        
+        return dfs(root)
