@@ -4,44 +4,28 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-'''
-return the level order traversal of the binary tree
-
-use a bfs algorithm
-use a double ended queue
-add the root of the tree to the queue
-while the q exists:
-make an array to show what nodes are on the same level
-pop the left side of the queue
-append that nodes value to the same level array
-if the node has a left child, put it in the queue
-if the node has a right child, put it in the queue
-append the same level array to the result array
-'''
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        result = []
-
+        self.result = []
         if not root:
-            return result
+            return self.result
+        def bfs(root):
+            queue = []
+            queue.append(root)
 
-        q = deque()
-        q.append(root)
+            while queue:
+                same_level = []
+                for _ in range(len(queue)):
+                    node = queue.pop(0)
+                    same_level.append(node.val)
 
-        while q:
-            same_level = []
+                    if node.left:
+                        queue.append(node.left)
 
-            for _ in range(len(q)):
-                node = q.popleft()
-                same_level.append(node.val)
+                    if node.right:
+                        queue.append(node.right)
+                        
+                self.result.append(same_level)
 
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-
-            result.append(same_level)
-
-        return result
-
-        
+        bfs(root)
+        return self.result
