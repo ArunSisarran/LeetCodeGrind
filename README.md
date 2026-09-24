@@ -394,4 +394,8 @@ A repo of all my leetcodes as I solve them
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArunSisarran/LeetCodeGrind/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
