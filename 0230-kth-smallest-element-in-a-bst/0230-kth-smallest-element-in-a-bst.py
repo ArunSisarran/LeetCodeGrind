@@ -4,17 +4,18 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-'''
-return the smallest k values of the binary tree
-'''
 class Solution:
-    def inorder(self, root):
-        if not root:
-            return []
-        while root:
-            return self.inorder(root.left) + [root.val] + self.inorder(root.right)
-    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        res = self.inorder(root)
-        return res[k - 1]
-        
-        
+    def kthSmallest(self, root: TreeNode | None, k: int) -> int:
+        self.result = []
+
+        def inorder(node):
+            if not node:
+                return
+
+            inorder(node.left)
+            self.result.append(node.val)
+            inorder(node.right)
+
+        inorder(root)
+
+        return self.result[k-1]
