@@ -1,11 +1,12 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        
-        anagrams = defaultdict(list)
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+    
+        map = defaultdict(list)
 
         for word in strs:
-            sorted_word = "".join(sorted(word))
+            sorted_word = sorted(word)
+            key="".join(sorted_word) 
+            map[key].append(word)
 
-            anagrams[sorted_word].append(word)
+        return list(map.values())
 
-        return list(anagrams.values())
